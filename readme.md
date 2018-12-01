@@ -1,5 +1,9 @@
 # Lavalite
 
+![Build Status](https://travis-ci.org/LavaLite/cms.svg?branch=master)
+![StyleCI](https://github.styleci.io/repos/18992087/shield?branch=master)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
 This is an open source of Content Management System developed with [Laravel](http://laravel.com/) framework.
 
 ![Screen](https://raw.githubusercontent.com/LavaLite/docs/master/images/lavalite.png "Dashboards")
@@ -24,5 +28,21 @@ The Lavalite CMS is open-sourced software licensed under the [MIT license](http:
 
 ## Support 
 
-Make a donation to support the work of the Open Source Initiative.
-[DONATE](https://www.paypal.me/renfos)
+Become a Backer / Sponsor of this Open Source Initiative.
+
+
+<a href="https://opencollective.com/Cms#backers" target="_blank"><img src="https://opencollective.com/Cms/backers.svg?width=890"></a>
+
+<a href="https://opencollective.com/Cms/sponsor/0/website" target="_blank"><img src="https://opencollective.com/Cms/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/Cms/sponsor/1/website" target="_blank"><img src="https://opencollective.com/Cms/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/Cms/sponsor/2/website" target="_blank"><img src="https://opencollective.com/Cms/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/Cms/sponsor/3/website" target="_blank"><img src="https://opencollective.com/Cms/sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/Cms/sponsor/4/website" target="_blank"><img src="https://opencollective.com/Cms/sponsor/4/avatar.svg"></a>
+<a href="https://opencollective.com/Cms/sponsor/5/website" target="_blank"><img src="https://opencollective.com/Cms/sponsor/5/avatar.svg"></a>
+<a href="https://opencollective.com/Cms/sponsor/6/website" target="_blank"><img src="https://opencollective.com/Cms/sponsor/6/avatar.svg"></a>
+<a href="https://opencollective.com/Cms/sponsor/7/website" target="_blank"><img src="https://opencollective.com/Cms/sponsor/7/avatar.svg"></a>
+<a href="https://opencollective.com/Cms/sponsor/8/website" target="_blank"><img src="https://opencollective.com/Cms/sponsor/8/avatar.svg"></a>
+<a href="https://opencollective.com/Cms/sponsor/9/website" target="_blank"><img src="https://opencollective.com/Cms/sponsor/9/avatar.svg"></a>
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website.
+
